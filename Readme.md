@@ -1,8 +1,11 @@
 <h1 align="center">✨ Nugraha Panca Wibisana ✨</h1>
 <h3 align="center">⚔️ Seorang individu yang bersemangat dan berbakat di dunia teknologi ⚔️</h3>
 
+</br>
+</br>
+</br>
 <p align="center">
-  <img src="https://media.tenor.com/XLWytMsrNy8AAAAC/kaioura-anime-girl.gif" width="300" height="300" />
+  <img src="https://media.tenor.com/iYL_TseFwQ4AAAAC/anime.gif" width="300" height="300" />
 </p>
 </br>
 </br>
