@@ -20,8 +20,82 @@
 - ⚡ Fun fact **Mamah aku bisa ngoding**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp,bootstrap,tailwind,laravel,nodejs,vscode,wordpress,figma,powershell,git,github,discord,codepen" />
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" />
+      <p><b>HTML</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" />
+      <p><b>CSS</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" />
+      <p><b>JS</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" />
+      <p><b>PHP</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+      <p><b>MYSQL</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" />
+      <p><b>CPP</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" />
+      <p><b>BOOTSTRAP</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" />
+      <p><b>LARAVEL</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+      <p><b>NODEJS</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" />
+      <p><b>VSCODE</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=wordpress" />
+      <p><b>WORDPRESS</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" />
+      <p><b>FIGMA</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=powershell" />
+      <p><b>PSHELL</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" />
+      <p><b>GIT</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" />
+      <p><b>GITHUB</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=discord" />
+      <p><b>DISCORD</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=codepen" />
+      <p><b>CODEPEN</b></p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=instagram" />
+      <p><b>IG</b></p>
+    </td>
+  </tr>
+</table>
