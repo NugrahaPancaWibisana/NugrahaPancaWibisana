@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi 👋, I'm Nugraha Panca Wibisana ✨</h1>
+<h1 align="center">✨ Nugraha Panca Wibisana ✨</h1>
 <h3 align="center">⚔️ Seorang individu yang bersemangat dan berbakat di dunia teknologi ⚔️</h3>
 
 <p align="center">
