@@ -1,6 +1,9 @@
 <h1 align="center">✨ Hi 👋, I'm Nugraha Panca Wibisana ✨</h1>
 <h3 align="center">⚔️ Seorang individu yang bersemangat dan berbakat di dunia teknologi ⚔️</h3>
 
+<p align="center">
+  <img src="https://media.tenor.com/XLWytMsrNy8AAAAC/kaioura-anime-girl.gif" width="300" height="300" />
+</p>
 </br>
 </br>
 </br>
