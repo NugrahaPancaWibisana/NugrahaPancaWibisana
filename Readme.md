@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nugrahapancawibisana&theme=flat&column=-1&margin-w=15" alt="nugrahapancawibisana" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [NugrahaPancaWibisana.github.io](NugrahaPancaWibisana.github.io)
+- 👨‍💻 My personal portofolio at [NugrahaPancaWibisana.github.io](NugrahaPancaWibisana.github.io)
 
 - ⚡ Fun fact **Mamah aku bisa ngoding**
 
