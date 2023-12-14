@@ -19,9 +19,6 @@
 
 - ⚡ Fun fact **Mamah aku bisa ngoding**
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<br>
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
   <a href="https://api.badgr.io/public/assertions/w0I3YadBTF2aOEORSvuSAw?identity__email=nugrahapancawibisana%40gmail.com">
     <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/w0I3YadBTF2aOEORSvuSAw/image">
