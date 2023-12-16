@@ -15,10 +15,6 @@
 
 <p align="left"> <a href="https://github.com/nugrahapancawibisana"><img src="https://github-profile-trophy.vercel.app/?username=nugrahapancawibisana&theme=flat&column=-1&margin-w=15" alt="nugrahapancawibisana" /></a> </p>
 
-- 👨‍💻 My personal portofolio at [NugrahaPancaWibisana.github.io](NugrahaPancaWibisana.github.io)
-
-- ⚡ Fun fact **Mamah aku bisa ngoding**
-
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
   <a href="https://api.badgr.io/public/assertions/w0I3YadBTF2aOEORSvuSAw?identity__email=nugrahapancawibisana%40gmail.com">
     <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/w0I3YadBTF2aOEORSvuSAw/image">
