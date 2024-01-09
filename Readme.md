@@ -5,7 +5,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://media.tenor.com/iYL_TseFwQ4AAAAC/anime.gif" width="300" height="300" />
+  <img src="https://www.codewars.com/users/NPWS/badges/large" width="300" height="300" />
 </p>
 </br>
 </br>
