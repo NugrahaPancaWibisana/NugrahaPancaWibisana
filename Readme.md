@@ -3,7 +3,4 @@
 
 </br>
 
-
-<p align="left"> <img src="https://www.codewars.com/users/NPWS/badges/large" alt="nugrahapancawibisana" /> </p>
-
 <p align="left"> <a href="https://github.com/nugrahapancawibisana"><img src="https://github-profile-trophy.vercel.app/?username=nugrahapancawibisana&theme=flat&column=-1&margin-w=15" alt="nugrahapancawibisana" /></a> </p>
