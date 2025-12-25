@@ -59,11 +59,11 @@
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Laravel-404D59?style=for-the-badge" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Elysia.js-404D59?style=for-the-badge" alt="Elysia.js"/>
-  <img src="https://img.shields.io/badge/Hono.js-404D59?style=for-the-badge" alt="Hono.js"/>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+ <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+ <img src="https://img.shields.io/badge/Elysia.js-141414?style=for-the-badge&logo=bun&logoColor=white" />
+ <img src="https://img.shields.io/badge/Hono.js-FF6F00?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ### 🗄️ Database
