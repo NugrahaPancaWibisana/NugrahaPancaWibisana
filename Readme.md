@@ -34,7 +34,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 ### 💻 Programming Languages
 
