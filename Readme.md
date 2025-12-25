@@ -61,6 +61,9 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Laravel-404D59?style=for-the-badge" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Elysia.js-404D59?style=for-the-badge" alt="Elysia.js"/>
+  <img src="https://img.shields.io/badge/Hono.js-404D59?style=for-the-badge" alt="Hono.js"/>
 </p>
 
 ### 🗄️ Database
